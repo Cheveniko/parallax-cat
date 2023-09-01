@@ -2,4 +2,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Parallax Cat
 
-Simple app to try React Spring Parallax library
+Simple app to try React Spring Parallax library: [https://parallax-cat.vercel.app/](https://parallax-cat.vercel.app/)

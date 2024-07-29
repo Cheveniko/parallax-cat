@@ -4,8 +4,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Parallax Cat",
-  description: "Simple app to try React Spring Parallax Library",
+  title: "SmartPass",
+  description: "Compra tus entradas para Alex Dey en Ambato",
 };
 
 export default function RootLayout({ children }) {
